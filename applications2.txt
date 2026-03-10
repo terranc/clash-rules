@@ -1,0 +1,8 @@
+payload:
+  - PROCESS-NAME,codex
+  - PROCESS-NAME,codex.app
+  - PROCESS-NAME,codex.exe
+  - PROCESS-NAME,Antigravity
+  - PROCESS-NAME,Antigravity.app
+  - PROCESS-NAME,Antigravity.exe
+
